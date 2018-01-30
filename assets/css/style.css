@@ -440,14 +440,14 @@ footer{
 	input[type=text] {
 		width: 80%;
 		padding: 8px 16px;
-		margin: 8px 16px 24px 16px;;
+		margin: 8px 16px 24px 0px;
 		box-sizing: border-box;
 	}
 	
 	textarea{
 		width: 80%;
 		padding: 8px 16px;
-		margin: 8px 16px 24px 16px;;
+		margin: 8px 16px 24px 0px;
 		box-sizing: border-box;
 	}
 	
@@ -669,14 +669,14 @@ footer{
 	input[type=text] {
 		width: 80%;
 		padding: 8px 16px;
-		margin: 8px 16px 24px 16px;;
+		margin: 8px 16px 24px 0px;
 		box-sizing: border-box;
 	}
 	
 	textarea{
 		width: 80%;
 		padding: 8px 16px;
-		margin: 8px 16px 24px 16px;;
+		margin: 8px 16px 24px 0px;;
 		box-sizing: border-box;
 	}
 	
